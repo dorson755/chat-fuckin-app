@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695821466460",
+    "project_id": "glchat-2ca64",
+    "storage_bucket": "glchat-2ca64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695821466460:android:6bd0c78f60057695d6df99",
+        "android_client_info": {
+          "package_name": "com.aethertech.glc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUgiaDRuPUQKzH68UdWz0e2FRlLkRW8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
